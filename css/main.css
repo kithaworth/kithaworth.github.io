@@ -65,7 +65,7 @@ h4, h5, h6 {
 }
 
 span.color {
-	color: #0feb9e;
+	color: #6600cc;
 }
 
 body > section,
@@ -76,7 +76,7 @@ body > section,
 .sec-title {}
 
 .sec-title h2 {
-  color: #0eb493;
+  color: #400080;
   font-size: 28px;
   font-weight: 800;
   text-transform: uppercase;
@@ -168,7 +168,7 @@ body > section,
 .navbar-nav li a:focus,
 .navbar-nav li a:hover {
 	background-color: transparent;
-	border-top: 1px solid #32B0EE;
+	border-top: 1px solid #fff;
 	color: #fff;
 }
 
@@ -273,7 +273,7 @@ top: -8px;
 ==========================================*/
 
 .features {
-  background-color: #f4f7f9;
+  background-color: #e8e0ff;
 }
 
 .owl-controls {
@@ -297,14 +297,14 @@ top: -8px;
 }
 
 .owl-controls .owl-page.active span {
-  background: #062033;
+  background: #270632;
   border: 0;
 }
 
 .service-icon {
-  border: 1px solid #0eb493;
+  border: 1px solid #610eb4;
   border-radius: 50%;
-  color: #0eb493;
+  color: #610eb4;
   float: left;
   padding: 10px 13px;
 }
@@ -316,7 +316,7 @@ top: -8px;
 }
 
 .service-desc h3 {
-  color: #062033;
+  color: #270632;
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 25px;
@@ -338,7 +338,7 @@ top: -8px;
 }
 
 .work-filter ul li a {
-  color: #062033;
+  color: #270632;
   display: block;
   font-size: 14px;
   font-weight: 700;
@@ -349,7 +349,7 @@ top: -8px;
 
 .work-filter ul li a:hover,
 .work-filter ul li a.active {
-  background-color: #0eb493;
+  background-color: #610eb4;
   border-radius: 6px;
   color: #fff;
   padding: 5px 17px;
@@ -372,7 +372,7 @@ top: -8px;
 }
 
 .overlay {
-	background-color: rgba(14,180,147,.9);
+	background-color: rgba(128, 0, 255,.9);
 	text-align: center;
 	position: absolute;
 	left: 0;
@@ -456,7 +456,7 @@ top: -8px;
 }
 
 .team-member h4 {
-  color: #062033;
+  color: #1c0632;
   font-size: 18px;
   font-weight: 600;
   line-height: 24px;
@@ -476,7 +476,7 @@ top: -8px;
 }
 
 .team-member:hover h4 {
-  color: #0eb493;
+  color: #610eb4;
 }
 
 .team-member .social-links {
@@ -484,7 +484,7 @@ top: -8px;
 }
 
 .team-member .social-links li a {
-  background-color: #0d7c67;
+  background-color: #450d7d;
   color: #fff;
   height: 42px;
   padding: 10px 0 0;
@@ -498,7 +498,7 @@ top: -8px;
 
 #facts {
 	background-image: url("../img/parallax/city.jpg");
-	background-color: rgba(6,32,51,.8);
+	background-color: rgba(128, 0, 255, .8);
 	background-attachment: fixed !important;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -508,7 +508,7 @@ top: -8px;
 
 .facts .devider:before,
 .facts .devider:after {
-	color: #737C85;
+	color: 	#7d7486;
 }
 
 .facts .devider i {
@@ -516,7 +516,7 @@ top: -8px;
 }
 
 .parallax-overlay {
-	background-color: rgba(6,32,51,.8);
+	background-color: rgba(128, 0, 255, .8);
 	padding: 70px 0;
 }
 
@@ -525,7 +525,7 @@ top: -8px;
 }
 
 .counters-item i {
-  border: 1px solid #737C85;
+  border: 1px solid #7d7486;
   border-radius: 50%;
   color: #fff;
   display: inline-block;
@@ -559,7 +559,7 @@ top: -8px;
 }
 
 .contact-address h3 {
-  color: #062033;
+  color: #060632;
   font-size: 22px;
   line-height: 32px;
   margin-bottom: 25px;
@@ -572,7 +572,7 @@ top: -8px;
 .contact-form {}
 
 .contact-form h3 {
-  color: #062033;
+  color: #060632;
   font-size: 24px;
   font-weight: 700;
   line-height: 32px;
@@ -646,13 +646,13 @@ label.error {
 
 
 .footer {
-  background-color: #1ea78d;
-  border-top: 5px solid #062033;
+  background-color: #631ea9;
+  border-top: 5px solid #110632;
   color: #fff;
 }
 
 .footer a:hover {
-  color: #062033;
+  color: #110632;
 }
 
 .footer h6 {
@@ -705,7 +705,7 @@ label.error {
 }
 
 .credit a {
-  color: #062033;
+  color: #110632;
 }
 
 .credit a:hover {
