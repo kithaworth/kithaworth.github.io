@@ -147,10 +147,11 @@ body > section,
   
 }
 
-.navbar-toggle i {
-	color: #fff;
-}
 
+}
+.navbar-brand {
+  padding: 0;
+}
 
 
 .navbar-nav li a {
