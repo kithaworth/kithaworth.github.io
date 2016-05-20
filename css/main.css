@@ -146,7 +146,8 @@ body > section,
   margin: 0;
   
 }
-
+.navbar-toggle i {
+	color: #fff;
 
 }
 .navbar-brand {
