@@ -155,11 +155,15 @@ body > section,
   padding: 0;
 }
 
-.navbar-nav li a {
-	border-top: 1px solid transparent;
+
+
+.navbar-nav li a.current,
+.navbar-nav li a:focus,
+.navbar-nav li a:hover {
+	background-color: transparent;
+	border-top: 1px solid #fff;
+	color: #fff;
 }
-
-
 
 
 
